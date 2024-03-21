@@ -1,5 +1,5 @@
+#api/articles/models.py
 
-# api/models.py
 from django.db import models
 
 class Articulo(models.Model):

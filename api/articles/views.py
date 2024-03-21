@@ -1,4 +1,4 @@
-# api/views.py
+#api/articles/views.py
 
 from rest_framework import viewsets
 from .models import Articulo
